@@ -9,11 +9,11 @@ BrainDeck is a Flscard studying app which allows you to create new study decks o
 Project structure
 ------------------
 
-├── README.md
-├── gui.py
-├── welcome.py
-├── deck_class.py
-├── card.py
+README.md
+gui.py
+welcome.py
+deck_class.py
+card.py
 
 
 Files 
